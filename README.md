@@ -30,7 +30,7 @@ Data is persisted in `localStorage`, so your quests remain after refresh.
 **Create / Edit Quest Form**  
 ![Form](./screenshots/form.png)
 
-_(Optional)_  
+
 **Quest Details**  
 ![Details](./screenshots/details.png)
 
